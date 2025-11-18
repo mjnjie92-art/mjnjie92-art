@@ -12,6 +12,10 @@ href="https://www.linkedin.com/in/mam-jarra-njie-230509186/">Data Analyst</a>
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng/?token=a3aa18e0-f2ff-4ba9-be96-2666045b8eaf&otp_code=945945)
 
+- <b>📜Google Data Analytics</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.coursera.org/account/accomplishments/specialization/certificate/CRV7Z1M9PQDY)
+
+
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/mam-jarra-njie-230509186/" target="_blank">
