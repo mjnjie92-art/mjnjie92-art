@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/mam-jarra-njie-230509186/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/mjnjie92-art/SQL_Techinques)
 
 <h2>📚Certifications:</h2>
 
@@ -13,7 +13,7 @@ href="https://www.linkedin.com/in/mam-jarra-njie-230509186/">Data Analyst</a>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng/?token=a3aa18e0-f2ff-4ba9-be96-2666045b8eaf&otp_code=945945)
 
 - <b>📜Google Data Analytics</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.coursera.org/account/accomplishments/specialization/certificate/CRV7Z1M9PQDY)
+  - [Demonstrated competency in Spreadsheer, SQL, Tableau and R](https://www.coursera.org/account/accomplishments/specialization/certificate/CRV7Z1M9PQDY)
 
 
 
